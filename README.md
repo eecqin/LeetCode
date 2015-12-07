@@ -7,6 +7,13 @@ For more questions and solutions, you can see my [LintCode](https://github.com/k
 I'll keep updating for full summary and better solutions. Stay tuned for updates.
 (Notes: "📖" means you need to subscribe to [LeetCode premium membership](https://leetcode.com/subscribe/) for the access to premium questions. )
 
+## Resources
+
+* * [Programming Interview Tips] (http://www.pgbovine.net/programming-interview-tips.htm)
+* [9个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路] (http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
+* [最完整的面试经历] (http://chuansong.me/n/290160)
+* 
+
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/kamyu104/LeetCode#bit-manipulation)
